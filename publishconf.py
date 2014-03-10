@@ -33,6 +33,6 @@ PLUGINS = ["sitemap"]
 
 THEME = 'theme'
 
-DISQUS_SITENAME = 'mrvoxel.com'
+DISQUS_SITENAME = 'mrvoxel'
 #GITHUB_URL = 'github.com/cgibson'
 #TWITTER_USERNAME = 'mrvoxel'
