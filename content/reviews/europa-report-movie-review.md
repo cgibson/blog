@@ -9,8 +9,8 @@ Rating: 3.5
 VisualsRating: 3.5
 StoryRating: 3.5
 ActingRating: 4
-Top_Img: images/europa_report/large.jpg
-Top_Image: images/europa_report/top.jpg
+Top_Img: /images/europa_report/large.jpg
+Top_Image: /images/europa_report/top.jpg
 Side_Note_1: Because the movie was supposed to be a compilation of real recordings from the ship, most shots had a pragmatic, utilitarian feel.
 Side_Note_2: You keep questioning whether this is actually Sharlto Copley. This is, in part, because of the lack of deep social message in the movie. Oh, and his voice isn't high pitched, whiny and accented... so there's that.
 Top_Note: I swear this is actually a movie review... scroll down to the bottom if you want to see what I thought about The Europa Report.
@@ -30,7 +30,7 @@ Pandorum has all of the makings of a really great film, except for one key eleme
 
 Sunshine is able to keep you on the edge of your seat, and REALLY does a great job at remaining a psychological thriller until the very end. It always disappoints me when a movie tries to hard to play the psychological angle, only to reveal "surprise, it's ACTUALLY a monster" at the end. I would still say it was a good movie, despite the supernatural feel at the end that threatened to kill it.
 
-<img src="images/europa_report/top.jpg"  class="img-responsive">
+<img src="/images/europa_report/top.jpg"  class="img-responsive">
 ## And now, for the actual review
 And that leads me to the movie I just finished... Europa Report. This took the route of Sunshine, it was extremely intra-personal... focused very much on the people and how they react to situations, not just the situations themselves. It also took a documentary-style direction. Jumping in and out of multi-/single-camera views was interesting and haunting, and the pacing was perfect. The plot was semi-non-linear, leaving you to wonder about what happened on the ship in the intervening months... only to catch glimpses and clues in the subtle interaction and actions of the crew.
 

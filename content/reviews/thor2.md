@@ -9,8 +9,8 @@ Rating: 3.5
 VisualsRating: 4
 StoryRating: 3
 ActingRating: 3
-Top_Img: images/thor_2_movie/large_3.jpg
-Top_Image: images/thor_the_dark_world/top.jpg
+Top_Img: /images/thor_2_movie/large_3.jpg
+Top_Image: /images/thor_the_dark_world/top.jpg
 Side_Note_1: I'll give you three guesses who stole the show.
 Side_Note_2: The baddies in this movie looked a little strange, but their space-sword-ships more than made up for their appearance.
 Side_Note_3: Thor experiences more than his share of hardship in this movie.
@@ -31,7 +31,7 @@ As far as characters go, Thor is the most boring of the lot. Loki, on the other 
 
 In the trailer, you find out that Thor has to come to his imprisoned brother for help. I think we all know where this is going, Loki being the God of betrayal and silly hats and all... so the plot feels a little <em>expected</em>. Sure, they send you some curve balls, but things essentially head in the direction you expect.
 
-<img src="images/thor_2_movie/top.jpg"  class="img-responsive">
+<img src="/images/thor_2_movie/top.jpg"  class="img-responsive">
 ## Biggest Deus Ex Machina (No spoilers)
 I'm not really sure I like the movie's <em>"Call to Action"</em> (a typical point in a story where the hero is forced to act). As you can expect, it involves Thor's love interest with the human girl Jane Foster. Sufficed to say, it felt forced and awkward. There's some hand waving to explain away what happened, but it was never on solid ground.
 

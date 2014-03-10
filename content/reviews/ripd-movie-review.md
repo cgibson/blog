@@ -9,8 +9,8 @@ Rating: 2
 VisualsRating: 3
 StoryRating: 1
 ActingRating: 2
-Top_Img: images/ripd_movie/large.jpg
-Top_Image: images/ripd/top.jpg
+Top_Img: /images/ripd_movie/large.jpg
+Top_Image: /images/ripd/top.jpg
 Side_Note_1: Interesting creature concepts marred by terrible acting and screen writing. The bad guys acted as if they had just escaped out of a children's cartoon.
 Side_Note_2: I'm pretty sure Jeff Bridges enjoyed the filming of this movie, regardless of how big a piece of junk it was.
 Side_Note_3: I'm pretty this was the most positive expression I wore during the entire movie.

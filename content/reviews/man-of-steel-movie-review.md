@@ -9,8 +9,8 @@ Rating: 3
 VisualsRating: 4
 StoryRating: 2.5
 ActingRating: 3.5
-Top_Img: images/man_of_steel_movie/large.jpg
-Top_Image: images/man_of_steel/top.jpg
+Top_Img: /images/man_of_steel_movie/large.jpg
+Top_Image: /images/man_of_steel/top.jpg
 Side_Note_1: The movie took itself so seriously, sometimes you weren't sure if you were supposed to laugh, cringe... or both.
 Side_Note_2: Seriously, make a movie entirely about this guy, ending with the collapse of Krypton. It would be amazing.
 Side_Note_3: Your disguise is still terrible. No, it wouldn't work on anyone who has seen you up close.
@@ -28,7 +28,7 @@ Let me put it this way without giving anything away... Zod could have shot down 
 
 In fact, when a character on screen noted Clark was "the most moral person [they] know", I simply shook my head. WHAT, exactly, had Clark done besides save a few people in the beginning of the movie, to be considered "the most moral man"? It didn't feel at all believable.
 
-<img src="images/man_of_steel_movie/top.jpg"  class="img-responsive">
+<img src="/images/man_of_steel_movie/top.jpg"  class="img-responsive">
 ## When explosions and action scenes simply aren't enough.
 Even the 13 boy half of me who squeals at explosions couldn't ignore the big plot holes and other cringe worthy bits sprinkled across the film. Besides the action, the last half felt flat as paper compared to what they were attempting earlier on in the film.
 

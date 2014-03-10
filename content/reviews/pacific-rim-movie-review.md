@@ -9,8 +9,8 @@ Rating: 4.5
 VisualsRating: 5
 StoryRating: 4
 ActingRating: 3
-Top_Image: images/pacific_rim/top.jpg
-Top_Img: images/pacific_rim_movie/large.jpg
+Top_Image: /images/pacific_rim/top.jpg
+Top_Img: /images/pacific_rim_movie/large.jpg
 Side_Note_1: So many scenes in this movie sent chills down my spine, made me laugh, clap or grin like mad.
 Side_Note_2: By far my two favorite characters in the film. They popped up here and there, acting like comedic duct tape to help hold the story together and give us a breather from the constant action scenes.
 Side_Note_3: Ron Perlman, played by Ron Perlman

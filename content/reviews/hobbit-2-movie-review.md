@@ -9,8 +9,8 @@ Rating: 4.5
 VisualsRating: 4.5
 StoryRating: 4
 ActingRating: 4.5
-Top_Img: images/hobbit_2_movie/hobbit_3.jpg
-Top_Image: images/the_hobbit_2/top_2.jpg
+Top_Img: /images/hobbit_2_movie/hobbit_3.jpg
+Top_Image: /images/the_hobbit_2/top_2.jpg
 Side_Note_1: Martin Freeman as Bilbo is as endearing and entertaining as always.
 Side_Note_2: Luke Evans' Bard looks like a merging of Will Turner and Inigo Montoya. And now you see it too.
 Side_Note_3: I would have paid good money to have been present for Benedict Cumberbatch's motion capture sessions... See more <a href="http://io9.com/heres-benedict-cumberbatch-doing-mo-cap-as-the-hobbit-1450360768">here!</a>
