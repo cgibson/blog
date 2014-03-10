@@ -25,7 +25,7 @@ SITE_MAP = "site-map.lua"
 
 SLUG_REDIRECT = True
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 10
 
 PLUGIN_PATH = 'plugins'
 
