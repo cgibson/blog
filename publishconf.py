@@ -3,7 +3,7 @@
 
 AUTHOR = u'Chris Gibson'
 SITENAME = u'Mr Voxel'
-SITEURL = '/Users/cgibson/Projects/mrvoxel_blog/output'
+SITEURL = ''
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -23,7 +23,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 SITE_MAP = "site-map.lua"
 
-SLUG_REDIRECT = False
+SLUG_REDIRECT = True
 
 DEFAULT_PAGINATION = 10
 
