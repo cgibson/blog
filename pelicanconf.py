@@ -31,7 +31,7 @@ PLUGIN_PATH = 'plugins'
 
 PLUGINS = ["sitemap"]
 
-THEME = 'theme'
+THEME = '../blog_theme'
 
 #DISQUS_SITENAME = 'mrvoxel.com'
 #GITHUB_URL = 'github.com/cgibson'
