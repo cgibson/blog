@@ -22,8 +22,17 @@ def title(text):
 
 @task
 def deploy():
-    
-    title("Deploying to beta server.")
+    deploy_to(beta=True)
+
+@task
+def deploy_prod():
+    deploy_to(beta=False)
+
+def deploy_to(beta=True):   
+    title("Deploying to %s server." % ("beta" if beta else "prod")
+
+    output_dir = remote_beta_dir if beta else remote_publish_dir
+    redir_file = remote_beta_redir_file if beta else remote_publish_redir_file
 
     if not exists(remote_repo_dir):
         print "Repo dir doesn't exist. Building."
@@ -44,5 +53,5 @@ def deploy():
             run("make publish")
 
         # Copy generated files to their respective spots
-        run("cp -r %s/output %s" % (remote_repo_dir, remote_beta_dir))
-        run("cp %s/output/site-map.lua %s" % (remote_repo_dir, remote_beta_redir_file))
+        run("cp -r %s/output %s" % (remote_repo_dir, output_dir))
+        run("cp %s/output/site-map.lua %s" % (remote_repo_dir, redir_file))

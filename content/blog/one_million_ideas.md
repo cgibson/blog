@@ -4,7 +4,7 @@ Tags: writing, creativity
 Slug: one_million_ideas
 Author: Chris Gibson
 Header: On more than one occasion, I would feel overwhelmed with the ideas in my mind, yet my notebooks and binders remained empty...
-Summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat...
+Summary: I had three composition books devoted to writing ideas. I created them during a particularly successful writing binge, where I outlined several stories that I continue to build upon and play with today. However, years later I open these notebooks that I've carried all around with me and found that almost every idea had been ripped out as I *purged* bad ideas, with the intention to fill the rest of the pages with better and greater ideas.
 
 ##I'm an idea guy.
 I remember drawing stickman comics when I was nine. I had dozens of pages of comics featuring two stick figures in particular. One had an 'N' in its head, and one with an 'S'. These letters were clearly initials, but their original names have been lost in time. At that age, if I thought of a funny joke, story idea, or concept, I would pull out my sketchbook and write it down.
