@@ -29,7 +29,7 @@ def deploy_prod():
     deploy_to(beta=False)
 
 def deploy_to(beta=True):   
-    title("Deploying to %s server." % ("beta" if beta else "prod")
+    title("Deploying to %s server." % ("beta" if beta else "prod"))
 
     output_dir = remote_beta_dir if beta else remote_publish_dir
     redir_file = remote_beta_redir_file if beta else remote_publish_redir_file
@@ -53,5 +53,5 @@ def deploy_to(beta=True):
             run("make publish")
 
         # Copy generated files to their respective spots
-        run("cp -r %s/output %s" % (remote_repo_dir, output_dir))
+        run("cp -r %s/output/* %s" % (remote_repo_dir, output_dir))
         run("cp %s/output/site-map.lua %s" % (remote_repo_dir, redir_file))
