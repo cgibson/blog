@@ -31,9 +31,11 @@ Problems similar to the _Thor 2_ upconvert were also present whenever fuzzy or h
 
 Overall, while I enjoyed the experience, you're best seeing this in 2D.
 
-##Final Verdict
-Great visuals _(slightly marred by limitations by a shoddy 3D upconvert)_, an unexpectedly complex yet intense plot, perfectly timed comedy... 
+## Final Verdict
+The film was slathered in great visuals _(slightly marred by limitations by a shoddy 3D upconvert)_, contained an unexpectedly complex yet intense plot, and was sprinkled with comedy that was expertly timed.
 
 There are two major recurring themes in _Captain America_: How much freedom are we willing to give up for security, and how do we know when we are no longer working with _"the good guys"_? The movie strives, but ultimately fails, to take a stand on these two issues. The "answers" (if indeed there are any) are left vague and unanswered, perhaps a better prediction of the future than we would like to admit.
+
+Luckily, the FOURTEEN VFX STUDIOS step in at just the right moment and blow everything to smithereens, so you don't even care!
 
 I rate _Captain America: The Winter Soldier_ **4/5**.
