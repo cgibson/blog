@@ -9,8 +9,8 @@ VisualsRating: 4.5
 StoryRating: 4
 ActingRating: 4
 Top_Img: /images/hunger_games_2_movie/top.jpg
+Header: An (almost) entirely loyal adaptation.
 
-##An (almost) entirely loyal adaptation.
 The Hunger Games series continues to impress me with how closely they follow the books. This isn't always practical and, in some cases, certain story elements don't lend themselves to film very well. Some movies manage to remain entertaining despite deviating from the novels, whereas some straight up suck.
 
 Catching Fire represents the second in the book trilogy, and continues to impress in every way. The only serious concern I have about the movie adaptations is the decision to split the third book into two movies *(which seems to be par for the course for recent movie adaptations)*.

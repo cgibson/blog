@@ -6,7 +6,8 @@ Author: Chris Gibson
 Header: On more than one occasion, I would feel overwhelmed with the ideas in my mind, yet my notebooks and binders remained empty...
 Summary: I had three composition books devoted to writing ideas. I created them during a particularly successful writing binge, where I outlined several stories that I continue to build upon and play with today. However, years later I open these notebooks that I've carried all around with me and found that almost every idea had been ripped out as I *purged* bad ideas, with the intention to fill the rest of the pages with better and greater ideas.
 
-##I'm an idea guy.
+I'm an idea guy.
+
 I remember drawing stickman comics when I was nine. I had dozens of pages of comics featuring two stick figures in particular. One had an 'N' in its head, and one with an 'S'. These letters were clearly initials, but their original names have been lost in time. At that age, if I thought of a funny joke, story idea, or concept, I would pull out my sketchbook and write it down.
 
 Around the same time, I made numerous videos where my childhood friend and I would perform magic tricks, mix tapes where another friend and I *"DJ'd" (I use this term EXTREMELY loosely)* during sleepovers. I would do terrible impressions from famous singers. It didn't matter that I was good... it was fun.

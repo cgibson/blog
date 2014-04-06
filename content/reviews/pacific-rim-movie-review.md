@@ -4,16 +4,12 @@ Tags: movie, review, sci-fi, terrible
 Slug: pacific_rim
 Author: Chris Gibson
 Summary: Went to see Pacific Rim last night with some friends. The movie rivaled, if not beat, the Avengers in how many times it managed to get the crowd to clap and cheer. Granted, Del Toro very effectively hones in on the little destruction-loving child inside all of us. Combine that with his passion for awesome monsters and an impressive budget, how can you NOT leave this movie grinning?
-Header: Pacific Rim feeds the 14-year-old inside all of us, and that's okay!
 Rating: 4.5
 VisualsRating: 5
 StoryRating: 4
 ActingRating: 3
-Top_Image: /images/pacific_rim/top.jpg
 Top_Img: /images/pacific_rim_movie/large.jpg
-Side_Note_1: So many scenes in this movie sent chills down my spine, made me laugh, clap or grin like mad.
-Side_Note_2: By far my two favorite characters in the film. They popped up here and there, acting like comedic duct tape to help hold the story together and give us a breather from the constant action scenes.
-Side_Note_3: Ron Perlman, played by Ron Perlman
+Header: Pacific Rim feeds the 14-year-old inside all of us, and that's okay!
 
 Went to see Pacific Rim last night with some friends. The movie rivaled, if not beat, the Avengers in how many times it managed to get the crowd to clap and cheer. Granted, Del Toro very effectively hones in on the little destruction-loving child inside all of us. Combine that with his passion for awesome monsters and an impressive budget, how can you NOT leave this movie grinning? (Don't worry... no spoilers below)
 

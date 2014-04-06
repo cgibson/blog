@@ -4,17 +4,12 @@ Tags: movie, review, fantasy
 Slug: the_hobbit_2
 Author: Chris Gibson
 Summary: The second part of a trilogy, many people were skeptical that director Peter Jackson could spread the simple story of The Hobbit across three movies without feeling boring or drawn out. I feel this movie proves them wrong. The sequel is rife with action, humor, and maybe a little (arguably unnecessary) romance...
-Header: Burglaring Intensifies in eagerly awaited sequel
 Rating: 4.5
 VisualsRating: 4.5
 StoryRating: 4
 ActingRating: 4.5
 Top_Img: /images/hobbit_2_movie/hobbit_3.jpg
-Top_Image: /images/the_hobbit_2/top_2.jpg
-Side_Note_1: Martin Freeman as Bilbo is as endearing and entertaining as always.
-Side_Note_2: Luke Evans' Bard looks like a merging of Will Turner and Inigo Montoya. And now you see it too.
-Side_Note_3: I would have paid good money to have been present for Benedict Cumberbatch's motion capture sessions... See more <a href="http://io9.com/heres-benedict-cumberbatch-doing-mo-cap-as-the-hobbit-1450360768">here!</a>
-Image_Sources: http://teaser-trailer.com/the-hobbit-2-the-desolation-of-smaug-movie/, http://www.high-resolution-wallpapers.com/gandalf-in-the-hobbit-2-294408, http://www.contactmusic.com/in-pictures/the-hobbit-the-desolation-of-smaug-trailer_3723282, http://screencrush.com/benedict-cumberbatch-the-hobbit-smaug-motion-capture/, http://imgur.com/gallery/1Ibi4
+Header: Burglaring Intensifies in eagerly awaited sequel
 
 *The Hobbit: The Desolation of Smaug* continues Bilbo's journey to the Lonely mountains in search of a new home,
 a panoply of riches, and of course a monstrous dragon! The second part of a trilogy, many people were skeptical that

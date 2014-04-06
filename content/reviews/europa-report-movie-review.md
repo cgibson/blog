@@ -10,12 +10,8 @@ VisualsRating: 3.5
 StoryRating: 3.5
 ActingRating: 4
 Top_Img: /images/europa_report/large.jpg
-Top_Image: /images/europa_report/top.jpg
-Side_Note_1: Because the movie was supposed to be a compilation of real recordings from the ship, most shots had a pragmatic, utilitarian feel.
-Side_Note_2: You keep questioning whether this is actually Sharlto Copley. This is, in part, because of the lack of deep social message in the movie. Oh, and his voice isn't high pitched, whiny and accented... so there's that.
-Top_Note: I swear this is actually a movie review... scroll down to the bottom if you want to see what I thought about The Europa Report.
+Header: I have a thing for Psychological Sci-Fi's.
 
-## I have a thing for Psychological Sci-Fi's.
 Something about the isolation, the limited supplies, and the sheer unknowability... it can be a uniquely gripping if done well.
 
 Many movies have gotten close. There are elements of Alien, Prometheus, Pandorum and Sunshine that I like. Most of them have one crucial flaw (with the exception of Alien). The evil guy is almost always revealed... and often gets far too much screen-time.

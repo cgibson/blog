@@ -9,8 +9,8 @@ VisualsRating: 4
 StoryRating: 3.5
 ActingRating: 3.5
 Top_Img: /images/captain_america_2_movie/top.jpg
+Header: The Cap is back! Prepare to be surprised
 
-## The Cap is back! Prepare to be surprised
 The best movie trailers show enough to catch your interest, stir your imagination, draw forth emotion, but not spoil the plot. This is in diametric opposition to most modern trailers, which seem to feel that revealing plot twists and secrets is key to capturing the interest and attention of the audience. Other movies, in an attempt to hide the true nature of the film for some artsy fartsy reason (or to hide the fact that their plot sucks), end up flat out lying to the audience, which is just as bad.
 
 There was a point while watching _Captain America: The Winter Soldier_ when I realized that I had been mislead, but in the best of ways.

@@ -4,17 +4,12 @@ Tags: movie, review, sci-fi, space
 Slug: enders_game
 Author: Chris Gibson
 Summary: Ender's Game, the movie, was an entertaining watch, but *(surprise surprise)* ultimately failed to capture the soul of the story. The important moments between Ender and the other battle school students was heavily watered down. Sad to say, a movie faithful to the book would not become a blockbuster, would not invite such a large budget, and might never have been made at all...
-Header: A great action movie. Poor cerebral sci-fi
 Rating: 3.5
 VisualsRating: 4.5
 StoryRating: 3.5
 ActingRating: 4
 Top_Img: /images/enders_game_movie/large_2.jpg
-Top_Image: /images/enders_game/top.jpg
-Top_Note: <b>Note:</b> I'm going to pretend that my recent re-read of the first third of the Ender's Game book entitles me to make judgements on the movie based on the Book's merits <i>(It's been about 7 years since I actually read the book.)</i>
-Side_Note_1: Ender's relationship with Graff wasn't quite as cold and clever as it was in the book. The director had to choose between important character building or awesome battle scenes. Hard choice.
-Side_Note_2: The battle room was brought to the silver screen, <em><strong>and it was glorious</strong></em>
-Side_Note_3: Hollywood, in an act of unsurprising asininity, felt there had to be more of a romance between Ender and Petra. This turned out as well as you might expect.
+Header: A great action movie. Poor cerebral sci-fi
 
 Ender's Game, the movie, was an entertaining watch, but *(surprise surprise)* ultimately failed to capture the soul of the story. The important moments between Ender and the other battle school students was heavily watered down.
 

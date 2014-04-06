@@ -9,8 +9,8 @@ VisualsRating: 2.5
 StoryRating: 2
 ActingRating: 3.5
 Top_Img: /images/muppets_2_movie/top.jpg
+Header: Do you know a Muppet man?
 
-##Do you know a Muppet man?
 While I don't dislike the muppets, *"The Muppets: Most Wanted"* wasn't terribly high on my to-watch list, especially since I never watched the 2011 movie. I had plenty of other movies to distract me. So, three days before the release of the newest Muppet installment, I decided to catch myself up and watch the *"original" (technically the sixth sequel to the original Muppets film)*.
 
 *"The Muppets"* surprised me in its entertaining puns, fun dance numbers, uplifting characters and recognizable cameos. I was able to turn my brain off and simply enjoy the movie. The movie wasn't about the plot. Everyone was just enjoying being in the film. You chuckled at the good guys, the bad guys, the random secondary characters, the silly props. The movie left you feeling good.

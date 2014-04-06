@@ -4,19 +4,13 @@ Tags: movie, review, sci-fi, terrible
 Slug: ripd
 Author: Chris Gibson
 Summary: We should have seen the signs when we were handed free shirts that were clearly meant for the employees, but clearly they didn't want to be caught DEAD in them. The premise had already begun to smell by the time we got past the first five minutes. The true CASUALTY was the possibility of what the movie could have been...
-Header: R.I.P.D is dead on arrival. Don't watch it.
 Rating: 2
 VisualsRating: 3
 StoryRating: 1
 ActingRating: 2
 Top_Img: /images/ripd_movie/large.jpg
-Top_Image: /images/ripd/top.jpg
-Side_Note_1: Interesting creature concepts marred by terrible acting and screen writing. The bad guys acted as if they had just escaped out of a children's cartoon.
-Side_Note_2: I'm pretty sure Jeff Bridges enjoyed the filming of this movie, regardless of how big a piece of junk it was.
-Side_Note_3: I'm pretty this was the most positive expression I wore during the entire movie.
-Top_Note: This movie had so much potential. <strong> DO NOT SEE IT. IT IS DREADFUL. </strong>
+Header:  R.I.P.D. is DEAD on arrival. Don't watch it.
 
-## R.I.P.D. is DEAD on arrival.
 We should have seen the signs when we were handed free shirts that were clearly meant for the employees, but clearly they didn't want to be caught **DEAD** in them. When we walked into the theater to take our seats, one could say it resembled a **GHOST-TOWN**.
 
 ## Failure to start

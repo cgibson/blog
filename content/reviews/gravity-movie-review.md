@@ -4,18 +4,14 @@ Tags: movie, review, sci-fi, space
 Slug: gravity_movie
 Author: Chris Gibson
 Summary: Amazing visuals, stunning performances by Bullock and Clooney, and insane zero-G choreography that boggles the mind. You'd think falling out of orbit would be mostly a boring affair, involving a lot of spinning, hyperventilating, asphyxiating, and burning up. Well... you'd be right, but Gravity offers SO much more...
-Header: I've never paid such close attention to my breathing than when I watched this movie.
 Rating: 4.5
 VisualsRating: 5
 StoryRating: 3.5
 ActingRating: 4
 Top_Img: /images/gravity_movie/large.jpg
-Top_Image: /images/gravity_movie/top.jpg
-Side_Note_1: <p><strong>Pictured:</strong> Clooney in space.</p> I think his character had two emotions: amusement and something that only approached mild concern
-Side_Note_2: Taken out of context, the trailer makes it look like everything Sandra Bullock touches explodes. This holds up well in the movie as well.
-Side_Note_3: <p>Let's all be honest here...</p> Astronauts don't wear underwear like this during space walks. I heard zero complaints during the movie.
+Header: In short, Gravity was a stellar movie.
 
-## In short, Gravity was a stellar movie.
+I've never paid such close attention to my breathing than when I watched this movie.
 
 Amazing visuals, stunning performances by Bullock and Clooney, and insane zero-G choreography that boggles the mind. You'd think falling out of orbit would be mostly a boring affair, involving a lot of spinning, hyperventilating, asphyxiating, and burning up. Well... you'd be right, but Gravity offers SO much more.
 

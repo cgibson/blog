@@ -10,8 +10,8 @@ VisualsRating: 3.5
 StoryRating: 2
 ActingRating: 3.5
 Top_Img: /images/non_stop_movie/top.jpg
+Header: Let's talk about actor bias...
 
-##Let's talk about actor bias...
 I have a confession to make: I sometimes watch movies, even bad ones, simply because I know a certain actor is going to be in it. Nicolas Cage, Arnold Schwarzenegger, Bruce Willis, Keanu Reeves... I don't watch these movies because they are good, I watch them because they tend to entertain me. Among that list of actors, I also include Liam Neeson.
 
 I enjoy watching Liam Neeson beat people up. So when I saw the trailer for Non-Stop, I knew I would have to watch it, despite some of the glaring issues that were present even in the trailers themselves.

@@ -4,18 +4,13 @@ Tags: movie, review, sci-fi, superhero
 Slug: thor_the_dark_world
 Author: Chris Gibson
 Summary: Thor&#58; The Dark World was a clean and fitting addition to the Thor universe. After having incarcerated Loki and bringing peace to the realms, Thor is called upon once again when Jane Foster, his human love interest, becomes yet again embroiled in things much bigger than her. The visuals are impressive as usual, and the design of the dark elf ships are unique and interesting, bringing variety to the visual palette...
-Header: Thor is an entertaining sequel, but a horrible 3D up-convert.
 Rating: 3.5
 VisualsRating: 4
 StoryRating: 3
 ActingRating: 3
 Top_Img: /images/thor_2_movie/large_3.jpg
-Top_Image: /images/thor_the_dark_world/top.jpg
-Side_Note_1: I'll give you three guesses who stole the show.
-Side_Note_2: The baddies in this movie looked a little strange, but their space-sword-ships more than made up for their appearance.
-Side_Note_3: Thor experiences more than his share of hardship in this movie.
+Header: Thor was a good sequel, and good fun
 
-## Thor was a good sequel, and good fun
 Thor: The Dark World was a clean and fitting addition to the Thor universe. After having incarcerated Loki and bringing peace to the realms, Thor is called upon once again when Jane Foster, his human love interest, becomes yet again embroiled in things much bigger than her.
 
 The visuals are impressive as usual, and the design of the dark elf ships are unique and interesting, bringing variety to the visual palette.
