@@ -3,7 +3,7 @@
 
 AUTHOR = u'Chris Gibson'
 SITENAME = u'Mr Voxel'
-SITEURL = 'mrvoxel.com'
+SITEURL = 'http://beta.mrvoxel.com'
 
 TIMEZONE = 'America/Los_Angeles'
 

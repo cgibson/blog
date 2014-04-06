@@ -50,7 +50,7 @@ def deploy_to(beta=True):
 
         # Now build the site
         with prefix("source %s/bin/activate" % pelican_virtualenv):
-            run("make publish")
+            run("make publish-beta" if beta else "make publish")
 
         # Copy generated files to their respective spots
         run("cp -r %s/output/* %s" % (remote_repo_dir, output_dir))
