@@ -9,7 +9,7 @@ Summary: Building a multi-rotor from scratch means I can easily replace broken c
 Building a quadcopter as a personal project. While the over-the-shelf options are entertaining _(The [Blade Nano Qx][nano_qx] is a great indoor nanocopter)_, any serious model is far too expensive and not easily modifiable.
 
 Building a multi-rotor from scratch means I can easily replace broken components without breaking the bank. It also means I can hand-pick the pieces to meet my purposes _(acrobatics, FPV, arial photography, etc...)_. At first, I was eying components that put the copter into the $600-$700, however it has become increasingly apparent to me that one can create a reliable and performant quadcopter for $200 or less, if you know where to look.
-
+* * *
 ### Current Build
 
 | | | |
@@ -28,7 +28,7 @@ In total, after buying the above components (along with a soldering iron, LiPo c
 The Q450 frame is simply a clone of the more expensive DJI 450. I'm planning on upgrading to another more FPV-friendly frame _(perhaps the [Hoverthings Flip FPV][flip_fpv])_ and keeping the current one for testing and acrobatics.
 
 I will post more information as the build progresses. Until that time, here's some other parts I reviewed during my search along with first impressions:
-
+* * *
 ### Other Flight Controllers
 There are several other flight controllers that are worth mentioning. The MultiWii was simply the cheapest for what I wanted, but each has its own set of advantages:
 
@@ -66,7 +66,9 @@ __[MultiWii Pro][flight_controller]__ ($30-$70)
  * [GetFPV.com][getfpv]
  * [RCDude.com][rcdude]
 
+* * *
 _Please note I am an absolute ameteur at all this. This is just a record of my experiences. Please don't use the information I post as ground truth. Also, if you find any information on this post is in error, feel free to call me out in the comments below, I would really appreciate it!_
+* * *
 
 [naza]: http://www.hobbyking.com/hobbyking/store/__51633__dji_naza_m_v2_multi_rotor_flight_controller_gps_combo.html
 [cc3d]: http://www.getfpv.com/openpilot-cc3d-flight-controller.html
