@@ -27,14 +27,37 @@ In total, after buying the above components (along with a soldering iron, LiPo c
 
 The Q450 frame is simply a clone of the more expensive DJI 450. I'm planning on upgrading to another more FPV-friendly frame _(perhaps the [Hoverthings Flip FPV][flip_fpv])_ and keeping the current one for testing and acrobatics.
 
-I will post more information as the build progresses.
+I will post more information as the build progresses. Until that time, here's some other parts I reviewed during my search along with first impressions:
+
+### Other Flight Controllers
+There are several other flight controllers that are worth mentioning. The MultiWii was simply the cheapest for what I wanted, but each has its own set of advantages:
+
+ __[KK 2.1.5][kk215]__ ($30)
+ 
+* Includes an on-board display for easy modification on the field
+* Lacks GPS support
+
+__[CC3D][cc3d]__ ($90)
+
+* Small, performant.
+* Supposedly well built for acrobatic flying.
+
+__[NAZA v2][naza]__ ($300)
+
+* Professional grade, built for better automated flying.
+* Has ecosystem for various addons (bluetooth controls, GPS, etc...)
+
+__[MultiWii Pro][flight_controller]__ ($30-$70)
+
+* Various styles. Flexible.
+* Includes better sensors (barometer, 6-axis accelerometer, magnetometer, etc...)
 
 ### Notable Frames
 
- * Hoverthings Flip FPV [\[link\]][flip_fpv] ($150)
- * Lumeniere QAV400 [\[link\]][qav400] ($165)
- * TBS Discovery [\[link\]][tbs] ($74)
- * Iconic-X [\[link\]][iconicx] ($145)
+ * [Hoverthings Flip FPV][flip_fpv] ($150)
+ * [Lumeniere QAV400][qav400] ($165)
+ * [TBS Discovery][tbs] ($74)
+ * [Iconic-X][iconicx] ($145)
 
 ### More Resources
 
@@ -43,6 +66,9 @@ I will post more information as the build progresses.
  * [GetFPV.com][getfpv]
  * [RCDude.com][rcdude]
 
+[naza]: http://www.hobbyking.com/hobbyking/store/__51633__dji_naza_m_v2_multi_rotor_flight_controller_gps_combo.html
+[cc3d]: http://www.getfpv.com/openpilot-cc3d-flight-controller.html
+[kk215]: http://www.hobbyking.com/hobbyking/store/__54299__Hobbyking_KK2_1_5_Multi_rotor_LCD_Flight_Control_Board_With_6050MPU_And_Atmel_644PA.html
 [iconicx]: http://quadcopter.us/store/index.php?id_product=8&controller=product
 [tbs]: http://team-blacksheep.com/shop/cat:discovery
 [qav400]: http://www.getfpv.com/featured/qav400-frame-aluminum.html
