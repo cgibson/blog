@@ -66,6 +66,8 @@ __[MultiWii Pro][flight_controller]__ ($30-$70)
  * [GetFPV.com][getfpv]
  * [RCDude.com][rcdude]
 
+_Please note I am an absolute ameteur at all this. This is just a record of my experiences. Please don't use the information I post as ground truth. Also, if you find any information on this post is in error, feel free to call me out in the comments below, I would really appreciate it!_
+
 [naza]: http://www.hobbyking.com/hobbyking/store/__51633__dji_naza_m_v2_multi_rotor_flight_controller_gps_combo.html
 [cc3d]: http://www.getfpv.com/openpilot-cc3d-flight-controller.html
 [kk215]: http://www.hobbyking.com/hobbyking/store/__54299__Hobbyking_KK2_1_5_Multi_rotor_LCD_Flight_Control_Board_With_6050MPU_And_Atmel_644PA.html
