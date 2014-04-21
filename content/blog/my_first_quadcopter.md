@@ -67,7 +67,7 @@ __[MultiWii Pro][flight_controller]__ ($30-$70)
  * [RCDude.com][rcdude]
 
 * * *
-_Please note I am an absolute ameteur at all this. This is just a record of my experiences. Please don't use the information I post as ground truth. Also, if you find any information on this post is in error, feel free to call me out in the comments below, I would really appreciate it!_
+_Please note I am an absolute amateur at all this. This is just a record of my experiences. Please don't use the information I post as ground truth. Also, if you find any information on this post is in error, feel free to call me out in the comments below, I would really appreciate it!_
 * * *
 
 [naza]: http://www.hobbyking.com/hobbyking/store/__51633__dji_naza_m_v2_multi_rotor_flight_controller_gps_combo.html
