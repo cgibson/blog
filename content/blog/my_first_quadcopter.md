@@ -12,15 +12,15 @@ Building a multi-rotor from scratch means I can easily replace broken components
 
 ### Current Build
 
-| | |
-| --- | --- |
-| __Frame:__ | [HobbyKing Q450][frame] |
-| __Flight Controller:__ | [MultiWii Pro w/GPS][flight_controller] |
-| __Motors:__ | [SunnySky 1260Kv][motors] (4x) | 
-| __Speed Controllers:__ | [DYS SimonK Program 30A ESCs][esc] (4x) |
-| __Battery:__ | [Glacier 30C 2200mAh][battery] |
-| __Transmitter/Receiver:__ | [Turnigy 9X][transmitter] |
-| __Props:__ | [GemFan 8x4.5][gemfan] |
+| | | |
+| --- | --- | ---: |
+| __Frame:__ | [HobbyKing Q450][frame] | $15 |
+| __Flight Controller:__ | [MultiWii Pro w/GPS][flight_controller] | $65 |
+| __Motors:__ | [SunnySky 1260Kv][motors] (4x) |  $18 |
+| __Speed Controllers:__ | [DYS SimonK Program 30A ESCs][esc] (4x) | $14 |
+| __Battery:__ | [Glacier 30C 2200mAh][battery] | $22 |
+| __Transmitter/Receiver:__ | [Turnigy 9X][transmitter] | $65 |
+| __Props:__ | [GemFan 8x4.5][gemfan] | $2 |
 
 <br/>
 In total, after buying the above components (along with a soldering iron, LiPo charger, and a half-dozen other components) I was set back about $450. I didn't buy the cheapest parts, you could drop the cost down another $50-$100 if you worked at it. However, compared to the over-the-counter devices, you'll be flying around with more money in your wallet.
